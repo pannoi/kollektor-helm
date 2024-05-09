@@ -3,12 +3,12 @@ entries:
   kollektor:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-09T14:27:45.22112+03:00"
+    created: "2024-05-09T14:55:29.638507+03:00"
     description: Kollektor application to scape and compare application versions
-    digest: 4e6b3d2f4632aacbdf8c2870b614336f1caa8ebd523dab0b8c297b8cd1bd16d3
+    digest: 63e9fb69cc33ea0c4541240a311176b748d97eedaef14b5d83cd6ba4efb1b99f
     name: kollektor
     type: application
     urls:
     - kollektor-1.0.0.tgz
     version: 1.0.0
-generated: "2024-05-09T14:27:45.220313+03:00"
+generated: "2024-05-09T14:55:29.637985+03:00"
