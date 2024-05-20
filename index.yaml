@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   kollektor:
   - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2024-05-20T11:52:09.842999+03:00"
+    description: Kollektor application to scape and compare application versions
+    digest: 2a11b916a7d31cfd6e1c304fc6195f4e4536e21c0e34f8b6dbd89242e6f3e446
+    name: kollektor
+    type: application
+    urls:
+    - kollektor-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-05-20T08:50:02.493903+03:00"
+    created: "2024-05-20T11:52:09.842675+03:00"
     description: Kollektor application to scape and compare application versions
     digest: 111a221ea923c78deec69511dd5cf3d77330cf12c852c515ac05c723da915b17
     name: kollektor
@@ -13,7 +23,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-20T08:50:02.493621+03:00"
+    created: "2024-05-20T11:52:09.842331+03:00"
     description: Kollektor application to scape and compare application versions
     digest: 63e9fb69cc33ea0c4541240a311176b748d97eedaef14b5d83cd6ba4efb1b99f
     name: kollektor
@@ -21,4 +31,4 @@ entries:
     urls:
     - kollektor-1.0.0.tgz
     version: 1.0.0
-generated: "2024-05-20T08:50:02.492788+03:00"
+generated: "2024-05-20T11:52:09.84099+03:00"
